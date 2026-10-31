@@ -2,8 +2,8 @@
 
 **Project:** L6_L7_05 Blood Donation Screening
 **Lab:** Lab 6: Code and Branch Coverage Analysis
-**Author:** [Author Name / SRN]
-**Submitted To:** [Evaluator/Organization Name]
+**Author:** Anishwar (PES2UG24CS068)
+**Submitted To:** Prof. Asha K, Software Engineering
 
 ---
 
