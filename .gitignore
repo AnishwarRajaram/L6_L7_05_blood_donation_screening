@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Test and coverage artifacts
+.pytest_cache/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+.claude/
