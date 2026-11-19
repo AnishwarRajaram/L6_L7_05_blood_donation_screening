@@ -12,7 +12,3 @@ A set of property-based fuzz tests targeting ABO/Rh blood code sanitization, pul
 |------|-------------|
 | `processor.py` | The module under test (buggy starter code) |
 | `test_processor.py` | Starter test file to complete using Hypothesis |
-
-Keep all your Lab 7 work in this `LAB7` folder.
-
-Refer to the lab handout for instructions.
